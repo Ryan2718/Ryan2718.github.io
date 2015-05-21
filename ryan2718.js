@@ -3,7 +3,8 @@ function header () {
     document.writeln("<div>");
     document.writeln("<a href='index.html'>Home Page</a> | ");
     document.writeln("<a href='languages.html'>Programming Langauges</a> | ");
-    document.writeln("<a href='interestAreas.html'>Interest Areas</a>");
+    document.writeln("<a href='interestAreas.html'>Interest Areas</a> | ");
+    document.writeln("<a href='history.html'>History</a> | ");
     document.writeln("</div>");
 }
 
